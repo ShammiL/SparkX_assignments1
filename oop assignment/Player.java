@@ -37,10 +37,3 @@ public class Player {
     }
 }
 
-//out-isOut, enum
-
-//sql---------
-//use join
-//use group by with count
-// int size
-// not null for columns
